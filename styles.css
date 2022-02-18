@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+}
+
+header {
+    background-image: linear-gradient(to bottom, #749dcc, #90cce7, white);
+    justify-content: center;
+    padding: 25px;
+}
+
+.navbar {
+    background-color: #ffff;
+    border:2.5px solid #749dcc;
+}
+
+#navbarNavAltMarkup {
+    justify-content: center;
+}
+
+table {
+    justify-items: center;
+}
