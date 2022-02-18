@@ -1,0 +1,23 @@
+{
+  "name": "entrega-1-pagina-web-personal",
+  "version": "1.0.0",
+  "description": "Entrega-1-Pagina-Web-Personal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drvillota/Entrega-1-Pagina-Web-Personal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drvillota/Entrega-1-Pagina-Web-Personal/issues"
+  },
+  "homepage": "https://github.com/drvillota/Entrega-1-Pagina-Web-Personal#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
